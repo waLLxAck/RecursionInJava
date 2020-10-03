@@ -1,17 +1,17 @@
 # Sparta Global Recursions In Java Task
 
-#####This project consist of four recursive functions:
+##### This project consist of four recursive functions:
 
 1. Method Recursion
 2. Factorial
 3. Fibonacci
 4. Message Invert
 
-#####One iterative function:
+##### One iterative function:
 
 1. Factorial
 
-#####One custom function
+##### One custom function
 
 1. Generate Class List
 
